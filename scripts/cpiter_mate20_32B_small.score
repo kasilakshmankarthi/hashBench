@@ -1,0 +1,21 @@
+hashBench buffer size (in bytes) hashed=32
+CRC32HW		:0.041462 useconds_per_iteration
+CRC32HW		:0.041790 useconds_per_iteration
+CRC32HW		:0.041434 useconds_per_iteration
+CRC32HW		:74.789092 cycles_per_iteration
+oneAtATimeHashV8	:0.078906 useconds_per_iteration
+oneAtATimeHashV8	:0.079425 useconds_per_iteration
+oneAtATimeHashV8	:0.078909 useconds_per_iteration
+oneAtATimeHashV8	:142.424969 cycles_per_iteration
+BobJenkins	:0.065090 useconds_per_iteration
+BobJenkins	:0.064786 useconds_per_iteration
+BobJenkins	:0.065006 useconds_per_iteration
+BobJenkins	:116.938008 cycles_per_iteration
+SuperFastHash	:0.070653 useconds_per_iteration
+SuperFastHash	:0.070694 useconds_per_iteration
+SuperFastHash	:0.071037 useconds_per_iteration
+SuperFastHash	:127.527943 cycles_per_iteration
+CityHash32	:0.069775 useconds_per_iteration
+CityHash32	:0.069713 useconds_per_iteration
+CityHash32	:0.071165 useconds_per_iteration
+CityHash32	:125.831604 cycles_per_iteration
